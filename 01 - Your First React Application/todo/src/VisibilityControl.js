@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-export class VisibilityControl extends Component {
+export default class VisibilityControl extends Component {
 
     render = () => 
         <div className="form-check">
